@@ -1,3 +1,4 @@
+#Speech to text, then text to speech
 import speech_recognition as sr
 import pyaudio
 from gtts import gTTS
